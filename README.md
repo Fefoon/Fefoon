@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fca311&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+Name+is+Felipe+de+Melo+Nascimento;I'm+18+years+old;I+am+from+Araçoiaba+da+Serra,+SP;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-##  Portfolio
+##  💻 Portfolio
 
 <div align="center">
 
@@ -22,11 +22,11 @@
 
 <br>
 
-#### Workstation Tools:
+#### 🛠️ Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode)&nbsp;
 
-   ## Social Media
+   ## 🤪 Social Media
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
