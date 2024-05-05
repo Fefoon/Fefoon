@@ -12,6 +12,8 @@
 
 ## 🔥 Skills
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="360px" align="right" alt="Computador iuriCode">
+
   <h3>Programming Languages</h3>
 
 <div style="display: inline_block"><br>
